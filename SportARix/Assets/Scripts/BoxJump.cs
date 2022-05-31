@@ -10,9 +10,9 @@ public class BoxJump : DefaultObserverEventHandler
     private ObserverBehaviour _observerBehaviourSource;
     private ObserverBehaviour _observerBehaviourTarget;
 
-    private float _duration = 0.9f;
+    private float _duration = 0.8f;
     private float _waitBefore = 0.5f;
-    private float _waitAfter = 1.2f;
+    private float _waitAfter = 1.3f;
     
 
     protected override void Start()
